@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/MirthaT/MirthaT/blob/main/Cece Banner.png" width="800"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MirthaT/MirthaT/main/Cece%20Banner.png" alt="Banner" width="100%"/>
   
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MirthaTorres/)
     <div id="badges" align="center">
