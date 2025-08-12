@@ -1,17 +1,16 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MirthaT/MirthaT/main/Cece%20Banner.png" alt="Banner" width="100%"/>
-
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MirthaTorres/)
+  <br><br>
+  <a href="https://www.linkedin.com/in/MirthaTorres/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MirthaT.MirthaT&color=blueviolet" alt="Visitor Badge"/>
 </div>
 
----
+# Hi, I’m Mirtha! 👋
+**Junior Data Analyst** | SQL • Python • Marketing Analytics | Sydney, Australia
 
-## 👋 Hi, I’m Mirtha!  
-**Junior Data Analyst** | SQL • Python • Marketing Analytics | Sydney, Australia  
-
-I’m transitioning into Data Analytics after over a decade in IT Support, combining my technical background with strong analytical and problem-solving skills.  
-Currently expanding my portfolio with real-world projects in SQL, Python, and Marketing Analytics.
+I’m transitioning into Data Analytics after 10+ years in IT Support. I bring strong troubleshooting and documentation skills, now applied to data projects in SQL/Python and marketing analytics.
 
 ---
 
