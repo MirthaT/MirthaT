@@ -1,58 +1,49 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MirthaT/MirthaT/main/Cece%20Banner.png" alt="Banner" width="100%"/>
-  
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MirthaTorres/)
-    <div id="badges" align="center">
-  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MirthaT.MirthaT&color=blueviolet" alt=""/> 
-    <div id="badges" align="center">
-<h1>
-  ### Hi, I’m Mirtha! 👋  
-**Junior Data Analyst** | SQL • Python • Marketing Analytics | Sydney, Australia
 
-**Featured Projects**  
-- [SQL-Project-Analysis-of-Book-Service-Database](https://github.com/MirthaT/SQL-Project-Analysis-of-Book-Service-Database) – SQL + Python analysis of book service data  
-- [Analyzing-Video-Game-Sales-Trends](https://github.com/MirthaT/Analyzing-Video-Game-Sales-Trends) – Sales patterns, ESRB & platform insights  
-- [Marketing-Analytics-Project](https://github.com/MirthaT/Marketing-Analytics-Project) – Cohort analysis, CAC, LTV, ROMI
-
-**Tech Stack:** SQL · Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
-
-Feel free to explore my projects or reach out via LinkedIn or email!
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
- ---
- <div id="header" align="left">
-   
-### :woman_technologist: About me :
-Passionate about technology and enjoying a career transition into Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Currently, I'm working as a Support Worker at Maxlife Services, a company that provides care and support services to disabled people, but I'm looking for new challenges :muscle:
-
-* :seedling: I'm studying :blue_book: and practicing :computer: SQL and Python programming languages, while also exploring the incredible tools by Microsoft.
-
-* :heartbeat:  I love discovering new ways to automate my work.
-
-* :mailbox: ¿Want to get in touch?  [![Linkedin Badge](https://img.shields.io/badge/-MirthaTorres-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MirthaTorres/)
-* :e-mail: mtorresca@gmail.com
-
-* :iphone: +61 0416420394
-
-  ----
-
-
-### :hammer_and_wrench: Languages and tools:
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="PowerBi"/>
-  </a>
-  <img decoding="async" src="https://img.shields.io/badge/Tableau-F5F5F5?style=for-the-badge&logo=Tableau&logoColor=blue" alt="Tableau"/>
-   </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MirthaTorres/)
+  ![Profile Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MirthaT.MirthaT&color=blueviolet)
 </div>
 
 ---
- ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MirthaT&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### 👋 Hi, I’m Mirtha  
+**Junior Data Analyst** | SQL • Python • Marketing Analytics | Sydney, Australia  
+
+💡 Passionate about technology and in the process of transitioning into a career in Data Analytics. I enjoy turning raw data into actionable insights, automating tasks, and creating clear visual reports.
+
+---
+
+### 📌 Featured Projects
+- [**SQL – Book Service Database Analysis**](https://github.com/MirthaT/SQL-Project-Analysis-of-Book-Service-Database) – SQL + Python analysis of book service data  
+- [**Video Game Sales Analysis**](https://github.com/MirthaT/Analyzing-Video-Game-Sales-Trends) – Sales patterns, ESRB ratings & platform insights  
+- [**Marketing Analytics Project**](https://github.com/MirthaT/Marketing-Analytics-Project) – Cohort analysis, CAC, LTV, ROMI  
+
+---
+
+### 🛠 Tech Stack
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-F5F5F5?style=for-the-badge&logo=Tableau&logoColor=blue)  
+
+Libraries: Pandas · Matplotlib · Seaborn · Jupyter Notebook  
+
+---
+
+### 💼 About Me
+- 🔭 Currently working as a **Support Worker** at Maxlife Services, providing care and support services to people with disabilities, while preparing for a career in Data Analytics.  
+- 📚 Continuously studying and practicing SQL, Python, and data visualization tools.  
+- ❤️ Interested in process automation and solving real-world problems with data.  
+
+---
+
+### 📊 GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MirthaT&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirthaT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📬 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/MirthaTorres/) | 📧 mtorresca@gmail.com | 📱 +61 0416420394
