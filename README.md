@@ -40,8 +40,7 @@ I’m transitioning into Data Analytics after 10+ years in IT Support. I bring s
 ---
 
 ## 📫 Contact
-- **Email:** mtorresca@gmail.com  
-- **Phone:** +61 0416420394  
+- **Email:** mtorresca@gmail.com   
 
 ---
 
