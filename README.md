@@ -6,7 +6,17 @@
   <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MirthaT.MirthaT&color=blueviolet" alt=""/> 
     <div id="badges" align="center">
 <h1>
-  Hi there! , I'm Mirtha!
+  ### Hi, I’m Mirtha! 👋  
+**Junior Data Analyst** | SQL • Python • Marketing Analytics | Sydney, Australia
+
+**Featured Projects**  
+- [SQL-Project-Analysis-of-Book-Service-Database](https://github.com/MirthaT/SQL-Project-Analysis-of-Book-Service-Database) – SQL + Python analysis of book service data  
+- [Analyzing-Video-Game-Sales-Trends](https://github.com/MirthaT/Analyzing-Video-Game-Sales-Trends) – Sales patterns, ESRB & platform insights  
+- [Marketing-Analytics-Project](https://github.com/MirthaT/Marketing-Analytics-Project) – Cohort analysis, CAC, LTV, ROMI
+
+**Tech Stack:** SQL · Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+
+Feel free to explore my projects or reach out via LinkedIn or email!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
