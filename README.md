@@ -16,9 +16,9 @@ I’m transitioning into Data Analytics after 10+ years in IT Support. I bring s
 
 ## 🚀 Featured Projects
 - **[SQL-Project-Analysis-of-Book-Service-Database](https://github.com/MirthaT/SQL-Project-Analysis-of-Book-Service-Database)** – SQL + Python analysis of book service data (queries, patterns, KPIs)
-- **[Analyzing Video Game Sales Trends](https://github.com/MirthaT/Analyzing-Video-Game-Sales-Trends)** – Sales patterns, ESRB ratings, platform insights
-- **[Marketing Analytics Project](https://github.com/MirthaT/Marketing-Analytics-Project)** – Cohort analysis, CAC, LTV, ROMI
-- **[A/B Test Project](https://github.com/MirthaT/A-B-Test-Project)** – Hypothesis testing & conversion rate optimization
+<!-- - **[Analyzing Video Game Sales Trends](https://github.com/MirthaT/Analyzing-Video-Game-Sales-Trends)** – Sales patterns, ESRB ratings, platform insights-->
+- **[Marketing Analytics Project](https://github.com/MirthaT/Marketing-Analytics-Project)** – Cohort analysis, CAC, LTV, ROMI 
+<!-- - **[A/B Test Project](https://github.com/MirthaT/A-B-Test-Project)** – Hypothesis testing & conversion rate optimization -->
 
 ---
 
